@@ -90,7 +90,7 @@
      About B.T.H
     </h2>
     <div class="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
-     <img alt="Hacker working on multiple phones screens displaying code and B.T.H icons in a dark room with neon blue lighting" class="rounded-lg shadow-lg" height="400" src="/storage/emulated/0/DCIM/IMG-king.jpg" width="600"/>
+     <img alt="Hacker working o" class="rounded-lg shadow-lg" height="400" src="/storage/emulated/0/DCIM/IMG-king.jpg" width="600"/>
      <div  text-lg space-y-6">
       <p>
        B.T.H (Break The Hack) is a cutting-edge platform dedicated to
